@@ -1,2 +1,3 @@
 # Ghani_Gaming
-this project is transaction ap
+this project is about  my transaction app
+
